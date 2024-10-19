@@ -35,6 +35,13 @@ The Data collected includes the following key columns;
      -  Average Revenue; Total revenue for each region to evaluate revenue consistency.
     
 
+     ## TOOLS USED
+     ---
+     1. Microsoft Excel [DownloadHere](https://www.microsoft.com)
+     - utilizing Pivot Tables to analyze, summarize and format data for easier interpretation.
+     - Bar Charts were created to visually represent the key findings. 
+    
+
      ## DATA CLEANING AND PREPARATION
      ---
      The following actions were performed for the data cleaning and preparation

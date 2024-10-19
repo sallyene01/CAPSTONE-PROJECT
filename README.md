@@ -62,5 +62,9 @@ The Data collected includes the following key columns;
 
            ``` Average Revenue = Total Revenue / Transactions```
 
+
+            ## VISUAL ANALYSIS AND INFERENCE
+          ---
+          1. #### Sales Per Product
      
   

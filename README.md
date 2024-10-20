@@ -13,6 +13,7 @@ The Data collected includes the following key columns;
 - Quantity; The number of units sold for each transaction
 - Unit Price; The amount for each product
 - Revenue; The total monetary value generated from sale.
+- Customer Name; Names of customers that patronzse the store
   
 
   ## PROJECT OBJECTIVES
@@ -35,16 +36,21 @@ The Data collected includes the following key columns;
        1. Product
        2. Region
        3. Month
-     -  Units Sold; Sum of units sold grouped by region
-     -  Average Revenue; Total revenue for each region to evaluate revenue consistency.
-     -  
+     - Units Sold; Sum of units sold grouped by region
+     - Average Revenue; Total revenue for each region to evaluate revenue consistency.
+     - Total Purchase by Customer; To check the top 5 customer.  
     
 
      ## TOOLS USED
      ---
      1. Microsoft Excel [DownloadHere](https://www.microsoft.com)
-     - utilizing Pivot Tables to analyze, summarize and format data for easier interpretation.
-     - Bar Charts were created to visually represent the key findings. 
+      - utilizing Pivot Tables to analyze, summarize and format data for easier interpretation.
+      - Bar Charts were created to visually represent the key findings.
+     2. SQL (structured query language) [DownloadHere](https://www.microsoft.com)
+      - using SQL command like SELECT to analyse and summerize data.
+     3. Microsoft Power BI [DownloadHere](https://www.microsoft.com)
+      - for data cleaning and fomatting
+      - To visually represent the key findings
     
 
      ## DATA CLEANING AND PREPARATION
@@ -62,10 +68,6 @@ The Data collected includes the following key columns;
           - Unit Sold by Region; Group data by region and sum of quantity column. To mearsure the most active region
           - Average Revenue by Region; To get the average revenue per transaction in each region.
          
-
-            ### FORMULA USED
-
-           ``` Average Revenue = Total Revenue / Transactions```
 
 
             ## VISUAL ANALYSIS AND INFERENCE

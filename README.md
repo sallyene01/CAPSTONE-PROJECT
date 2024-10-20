@@ -18,11 +18,14 @@ The Data collected includes the following key columns;
   ## PROJECT OBJECTIVES
   ---
   This project was designed to tackle the following analysis goal
-  1. Sales per Product; To ascertain the total sales per product
+  1. Sales per Product; To ascertain the total sales per product and the highest selling product
   2. Sales by Region; To determine the total sales by region
   3. Sales by Month; To work out overall sales for each month
   4. Average Revenue by Region; To calculate the avreage revenue per sales in each region.
   5. Transaction by Region; To figure out the number of units sold across different regions to be able to identify the most active location.
+  6. Total Rvenue per product: To determine the product with the highest revenue
+  7. Total Purchase Amount By Customer; To find the top 5 customers by the total purchase amount
+  8. Percentage of Total Sales by Region; To calculate the percentage of total sales contributed by each region.
      
  
      ## KEY METRICS

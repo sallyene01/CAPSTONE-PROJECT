@@ -26,6 +26,7 @@ The Data collected includes the following key columns;
   6. Total Rvenue per product: To determine the product with the highest revenue
   7. Total Purchase Amount By Customer; To find the top 5 customers by the total purchase amount
   8. Percentage of Total Sales by Region; To calculate the percentage of total sales contributed by each region.
+  9. Product By Order date; To identify products with no sales in the last quarter.
      
  
      ## KEY METRICS
@@ -36,6 +37,7 @@ The Data collected includes the following key columns;
        3. Month
      -  Units Sold; Sum of units sold grouped by region
      -  Average Revenue; Total revenue for each region to evaluate revenue consistency.
+     -  
     
 
      ## TOOLS USED

@@ -1,4 +1,15 @@
-# PROJECT OVERVIEW
+# PROJECT TITLE; Sales Performance Analysis For a Retail Store
+---
+- [Project Overview](#project-overview)
+- [Data Collected](#data-collected)
+- [Project Objectives](#project-objectives)
+- [KEY metrics](#key-metrics)
+- [Tools Used](#tools-used)
+- [Data cleaning and Preparation](##data-cleaning-and-preparetion)
+- [Exploratory Data Analysis](##exporatory-data-analysis)
+- [Visual Inference](##visual-inference)
+
+## PROJECT OVERVIEW
 ----
 This project collects and analyses sales performance Data from various regions.
 The goal is to provide insights into sales of product over different region. The analysis focuses on understanding sales performance across regions and calculating key metrics such as average sales per product and total revenue by region. 
@@ -44,10 +55,10 @@ The Data collected includes the following key columns;
      ## TOOLS USED
      ---
      1. Microsoft Excel [DownloadHere](https://www.microsoft.com)
-      - utilizing Pivot Tables to analyze, summarize and format data for easier interpretation.
+      - Summarize and format data for easier interpretation using pivot table.
       - Bar Charts were created to visually represent the key findings.
      2. SQL (structured query language) [DownloadHere](https://www.microsoft.com)
-      - using SQL command like SELECT to analyse and summerize data.
+      - For querying data
      3. Microsoft Power BI [DownloadHere](https://www.microsoft.com)
       - for data cleaning and fomatting
       - To visually represent the key findings

@@ -140,7 +140,38 @@ The Data collected includes the following key columns;
 
 
 
+![sales product by quarter](https://github.com/user-attachments/assets/3ccbe3d8-6473-41dc-bc19-319035fe3349)
+
+
+
+
+
+
+
+
+![monthly total sales](https://github.com/user-attachments/assets/5bcd83af-6d11-4259-b8ca-73b27511a1fc)
+
+
+
+
+
+
+
+
+![sales by product](https://github.com/user-attachments/assets/a993d4f2-deb1-4a27-99f2-c42e8903e33e)
+
+
+
+
+
+
+
+
+
 ![Screenshot 2024-10-19 222744](https://github.com/user-attachments/assets/37358c0e-75c1-4a3f-a7d3-7f8f94387e39)
+
+
+
 
 
 

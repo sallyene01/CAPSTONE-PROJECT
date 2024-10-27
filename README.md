@@ -86,6 +86,86 @@ The Data collected includes the following key columns;
             
 
 
+<img width="160" alt="SALES BY REGION" src="https://github.com/user-attachments/assets/caf4e841-2b8d-4c3a-8981-f2d6a39d63f3">
+
+
+
+
+
+
+
+
+
+
+
+<img width="170" alt="TOTAL SALES PER PPRODUCT" src="https://github.com/user-attachments/assets/566b232f-1a66-4343-a774-fb2b2bbac6de">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="205" alt="TOTAL SALES PER MONTH" src="https://github.com/user-attachments/assets/c8d3cd1a-8e51-42bf-a776-6f9d8fa9f457">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="182" alt="AVERAGE SALES PER PRODUCT" src="https://github.com/user-attachments/assets/52f8dbd5-1bdc-464d-8620-705137d50890">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="188" alt="TRANSACTN BY MONTH" src="https://github.com/user-attachments/assets/a49d6854-3bc4-450c-844f-93a18c6832a8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="230" alt="TOP 5 CUSTOMERS" src="https://github.com/user-attachments/assets/f8488b73-e6b7-49e3-a8c9-ac405b23cc82">
+
+
+
+
+
 
 
 

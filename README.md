@@ -82,104 +82,10 @@ The Data collected includes the following key columns;
 
 
             ## VISUAL ANALYSIS AND INFERENCE
-          ---
+            ---
+            
 
 
-
-
-
-    
-![Screenshot 2024-10-19 222555](https://github.com/user-attachments/assets/4715303a-ea66-4e08-98ff-e2c6e3d8897c)
-
-
-
-
-
-
-
-
-![Screenshot 2024-10-19 222441](https://github.com/user-attachments/assets/5f77604e-cd0f-4938-8406-2417041367b4)
-
-
-
-
-
-
-
-
-![Screenshot 2024-10-19 222524](https://github.com/user-attachments/assets/44826516-d296-4350-a8a5-3fa047c33f97)
-
-
-
-
-
-
-
-
-![Screenshot 2024-10-19 222613](https://github.com/user-attachments/assets/dd0cf2e6-5930-4d69-939a-54e8cae51baf)
-
-
-
-
-
-
-
- ### 2023
-![Screenshot 2024-10-19 222633](https://github.com/user-attachments/assets/8bb09b43-83b8-46fa-8cb2-a69fc6edd894)
-
-
-
-
-
-
-### 2024
-![Screenshot 2024-10-19 222658](https://github.com/user-attachments/assets/841d66c6-bcf4-4b05-b5af-81c04d865619)
-
-
-
-
-
-
-
-
-![Screenshot 2024-10-19 222723](https://github.com/user-attachments/assets/25a21408-9d7c-497d-bc3d-8ca6f09442bd)
-
-
-
-
-
-
-
-
-![sales product by quarter](https://github.com/user-attachments/assets/3ccbe3d8-6473-41dc-bc19-319035fe3349)
-
-
-
-
-
-
-
-
-![monthly total sales](https://github.com/user-attachments/assets/5bcd83af-6d11-4259-b8ca-73b27511a1fc)
-
-
-
-
-
-
-
-
-![sales by product](https://github.com/user-attachments/assets/a993d4f2-deb1-4a27-99f2-c42e8903e33e)
-
-
-
-
-
-
-
-
-
-![Screenshot 2024-10-19 222744](https://github.com/user-attachments/assets/37358c0e-75c1-4a3f-a7d3-7f8f94387e39)
 
 
 

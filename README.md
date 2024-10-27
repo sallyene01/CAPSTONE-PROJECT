@@ -172,6 +172,11 @@ The Data collected includes the following key columns;
 
 
 
+<img width="209" alt="AVERAGE BY REGION" src="https://github.com/user-attachments/assets/b096ed62-394e-4ae0-9846-6ec03fd4cd6b">
+
+
+
+
 
 
 

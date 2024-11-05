@@ -58,7 +58,25 @@ The Data collected includes the following key columns;
       - Summarize and format data for easier interpretation using pivot table.
       - Bar Charts were created to visually represent the key findings.
      2. SQL (structured query language) [DownloadHere](https://www.microsoft.com)
-      - For querying data
+      - For querying data. Example:
+        1. SELECT Product, SUM(Sales) AS TotalSales
+           FROM SalesData
+           GROUP BY Product
+        2. SELECT Region, COUNT(orderID) AS No_of_Transactions
+           FROMSalesData
+           GROUP BY Region
+        3. SELECT Product, SUM(Sales) AS TotalRevenue
+           FROM SalesData
+           GROUP BY Product
+        4. SELECT Month(orderDate) AS Month, SUM(Sales) AS MonthlyTotal
+           FROM SalesData
+           WHERE YEAR(OrderDate) =2024
+           GROUP BY Month(OderDate)
+           ORDER BY Month
+        5. SELECT Product FROM SalesData
+           GROUP BY Product
+           HAVING SUM(CASE WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
+           THEN 1 ELSE 0 END) = 0           
      3. Microsoft Power BI [DownloadHere](https://www.microsoft.com)
       - for data cleaning and fomatting
       - To visually represent the key findings

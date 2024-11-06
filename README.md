@@ -59,24 +59,33 @@ The Data collected includes the following key columns;
       - Bar Charts were created to visually represent the key findings.
      2. SQL (structured query language) [DownloadHere](https://www.microsoft.com)
       - For querying data. Example:
-        1. SELECT Product, SUM(Sales) AS TotalSales
+        1. SELECT Product, SUM(UnitPrice) AS TotalSales
            FROM SalesData
            GROUP BY Product
         2. SELECT Region, COUNT(orderID) AS No_of_Transactions
            FROMSalesData
            GROUP BY Region
-        3. SELECT Product, SUM(Sales) AS TotalRevenue
+        3. SELECT Top (1) Product, SUM(UnitPrice)
+           AS TotalSales
            FROM SalesData
            GROUP BY Product
-        4. SELECT Month(orderDate) AS Month, SUM(Sales) AS MonthlyTotal
+           ORDER BY TotalSales DESC 
+        4. SELECT Product, SUM(UnitPrice) AS TotalRevenue
+           FROM SalesData
+           GROUP BY Product  
+        5. SELECT Month(orderDate) AS Month, SUM(UnitPrice) AS MonthlyTotal
            FROM SalesData
            WHERE YEAR(OrderDate) =2024
            GROUP BY Month(OderDate)
            ORDER BY Month
-        5. SELECT Product FROM SalesData
+        6. SELECT Top (5) Customeer_id,
+           SUM(UnitPrice) AS TotalPurchseAmount
+           FROM SalesData
+           GROUP BY Customer_id
+           ORDER BY TotalPurchaseAmount DESC 
+        7. SELECT Product FROM SalesData
            GROUP BY Product
-           HAVING SUM(CASE WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
-           THEN 1 ELSE 0 END) = 0           
+           HAVING SUM(CASE WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' THEN 1 ELSE 0 END) = 0            
      3. Microsoft Power BI [DownloadHere](https://www.microsoft.com)
       - for data cleaning and fomatting
       - To visually represent the key findings
@@ -152,6 +161,42 @@ The Data collected includes the following key columns;
 
 
 
+<img width="137" alt="higest selling product" src="https://github.com/user-attachments/assets/76aed558-f4fe-4d3d-bd10-66b188dc1526">
+
+
+
+
+
+<img width="230" alt="monthly sales total for current year" src="https://github.com/user-attachments/assets/ecbb1e9e-4d4f-479f-960b-aff085bec002">
+
+
+
+
+
+
+
+
+
+<img width="301" alt="no of sales transaction by region" src="https://github.com/user-attachments/assets/4e17c9be-6902-4583-961c-fd53c1a2855b">
+
+
+
+
+
+
+
+
+<img width="196" alt="products with no sales in the last quarter" src="https://github.com/user-attachments/assets/cc841f83-3935-441b-9e0a-8f0989cf1f90">
+
+
+
+
+
+
+
+
+
+<img width="256" alt="TOP 5 CUSTOMERS" src="https://github.com/user-attachments/assets/70c2aaa6-3fe3-429e-bf7b-dd12a093ae6c">
 
 
 
@@ -162,7 +207,18 @@ The Data collected includes the following key columns;
 
 
 
-<img width="188" alt="TRANSACTN BY MONTH" src="https://github.com/user-attachments/assets/a49d6854-3bc4-450c-844f-93a18c6832a8">
+
+<img width="247" alt="total revenue per product" src="https://github.com/user-attachments/assets/faf70f62-81d2-471d-9263-29c07043914f">
+
+
+
+
+
+
+
+
+
+<img width="259" alt="total sales for each product" src="https://github.com/user-attachments/assets/f9bc5821-9f61-4d73-a6a9-687c14a05150">
 
 
 
@@ -177,8 +233,12 @@ The Data collected includes the following key columns;
 
 
 
+![POWER BI S,CD](https://github.com/user-attachments/assets/f8077b97-a109-4cfb-9895-9ed17491a229)
 
-<img width="230" alt="TOP 5 CUSTOMERS" src="https://github.com/user-attachments/assets/f8488b73-e6b7-49e3-a8c9-ac405b23cc82">
+
+
+
+
 
 
 
